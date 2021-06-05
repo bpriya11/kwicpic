@@ -1,0 +1,5 @@
+#commands to start, stop and restart a systems service called "cronListener".
+
+START: sudo systemctl start cronListener  
+STOP: sudo systemctl stop cronListener  
+RESTART:  sudo systemctl restart cronListener
